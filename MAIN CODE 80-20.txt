@@ -1,0 +1,38 @@
+Execution started at: 2024-10-07 11:50:43
+Training the model...
+8.67% completed at 2024-10-07 12:10:51.
+Running RMSE: 0.8939
+17.42% completed at 2024-10-07 12:30:56.
+Running RMSE: 0.8745
+26.21% completed at 2024-10-07 12:51:00.
+Running RMSE: 0.8649
+31.87% completed at 2024-10-07 13:11:06.
+Running RMSE: 0.8627
+37.85% completed at 2024-10-07 13:31:06.
+Running RMSE: 0.8593
+46.31% completed at 2024-10-07 13:51:12.
+Running RMSE: 0.8501
+53.14% completed at 2024-10-07 14:11:20.
+Running RMSE: 0.8459
+58.88% completed at 2024-10-07 14:31:25.
+Running RMSE: 0.8416
+64.65% completed at 2024-10-07 14:51:25.
+Running RMSE: 0.8385
+71.48% completed at 2024-10-07 15:11:31.
+Running RMSE: 0.8329
+74.33% completed at 2024-10-07 15:31:39.
+Running RMSE: 0.8319
+76.74% completed at 2024-10-07 15:51:45.
+Running RMSE: 0.8298
+83.32% completed at 2024-10-07 16:11:50.
+Running RMSE: 0.8261
+89.94% completed at 2024-10-07 16:31:55.
+Running RMSE: 0.8228
+96.52% completed at 2024-10-07 16:52:00.
+Running RMSE: 0.8205
+Average training loss (with regularization): 0.7253493172358058
+Evaluating the model on test data...
+Test RMSE: 0.8441963791847229
+Test MAE: 0.5568912556784816
+Execution ended at: 2024-10-07 17:46:09
+Total execution time: 21326.64 seconds
