@@ -1,0 +1,161 @@
+Execution started at: 2024-09-29 19:27:29
+
+--- Fold 1 ---
+Training on fold 1
+7.72% completed at 2024-09-29 19:47:37.
+Running RMSE: 0.9237
+16.12% completed at 2024-09-29 20:07:42.
+Running RMSE: 0.8847
+24.64% completed at 2024-09-29 20:27:44.
+Running RMSE: 0.8655
+33.44% completed at 2024-09-29 20:47:46.
+Running RMSE: 0.8519
+41.04% completed at 2024-09-29 21:07:48.
+Running RMSE: 0.8425
+47.08% completed at 2024-09-29 21:27:48.
+Running RMSE: 0.8337
+53.21% completed at 2024-09-29 21:47:51.
+Running RMSE: 0.8285
+59.45% completed at 2024-09-29 22:07:55.
+Running RMSE: 0.8234
+65.65% completed at 2024-09-29 22:28:04.
+Running RMSE: 0.8209
+73.05% completed at 2024-09-29 22:48:09.
+Running RMSE: 0.8175
+80.17% completed at 2024-09-29 23:08:12.
+Running RMSE: 0.8136
+86.69% completed at 2024-09-29 23:28:15.
+Running RMSE: 0.8127
+92.21% completed at 2024-09-29 23:48:17.
+Running RMSE: 0.8113
+97.41% completed at 2024-09-30 00:08:19.
+Running RMSE: 0.8105
+Average training loss (with regularization): 0.7106393582344723
+Evaluating on fold 1...
+
+--- Fold 2 ---
+Training on fold 2
+6.20% completed at 2024-09-30 01:17:31.
+Running RMSE: 0.8318
+14.28% completed at 2024-09-30 01:37:35.
+Running RMSE: 0.8273
+22.48% completed at 2024-09-30 01:57:35.
+Running RMSE: 0.8371
+30.72% completed at 2024-09-30 02:17:39.
+Running RMSE: 0.8383
+39.04% completed at 2024-09-30 02:37:42.
+Running RMSE: 0.8348
+47.40% completed at 2024-09-30 02:57:45.
+Running RMSE: 0.8296
+55.97% completed at 2024-09-30 03:17:48.
+Running RMSE: 0.8247
+64.41% completed at 2024-09-30 03:37:49.
+Running RMSE: 0.8204
+72.85% completed at 2024-09-30 03:57:52.
+Running RMSE: 0.8162
+81.21% completed at 2024-09-30 04:17:53.
+Running RMSE: 0.8131
+89.77% completed at 2024-09-30 04:37:55.
+Running RMSE: 0.8091
+98.29% completed at 2024-09-30 04:57:57.
+Running RMSE: 0.8083
+Average training loss (with regularization): 0.684993188230261
+Evaluating on fold 2...
+
+--- Fold 3 ---
+Training on fold 3
+8.52% completed at 2024-09-30 05:51:13.
+Running RMSE: 0.8212
+17.08% completed at 2024-09-30 06:11:16.
+Running RMSE: 0.8343
+25.40% completed at 2024-09-30 06:31:20.
+Running RMSE: 0.8322
+33.64% completed at 2024-09-30 06:51:21.
+Running RMSE: 0.8326
+41.96% completed at 2024-09-30 07:11:24.
+Running RMSE: 0.8300
+50.21% completed at 2024-09-30 07:31:26.
+Running RMSE: 0.8243
+58.57% completed at 2024-09-30 07:51:30.
+Running RMSE: 0.8191
+66.89% completed at 2024-09-30 08:11:31.
+Running RMSE: 0.8150
+75.21% completed at 2024-09-30 08:31:31.
+Running RMSE: 0.8097
+83.65% completed at 2024-09-30 08:51:34.
+Running RMSE: 0.8060
+92.13% completed at 2024-09-30 09:11:36.
+Running RMSE: 0.8037
+Average training loss (with regularization): 0.6723225330314537
+Evaluating on fold 3...
+
+--- Fold 4 ---
+Training on fold 4
+8.24% completed at 2024-09-30 10:19:13.
+Running RMSE: 0.8366
+16.00% completed at 2024-09-30 10:39:15.
+Running RMSE: 0.8444
+23.44% completed at 2024-09-30 10:59:20.
+Running RMSE: 0.8493
+30.76% completed at 2024-09-30 11:19:23.
+Running RMSE: 0.8479
+36.27% completed at 2024-09-30 11:39:24.
+Running RMSE: 0.8441
+41.91% completed at 2024-09-30 11:59:30.
+Running RMSE: 0.8414
+47.55% completed at 2024-09-30 12:19:32.
+Running RMSE: 0.8337
+53.35% completed at 2024-09-30 12:39:39.
+Running RMSE: 0.8301
+60.51% completed at 2024-09-30 12:59:41.
+Running RMSE: 0.8249
+68.91% completed at 2024-09-30 13:19:44.
+Running RMSE: 0.8221
+74.99% completed at 2024-09-30 13:39:44.
+Running RMSE: 0.8185
+80.71% completed at 2024-09-30 13:59:50.
+Running RMSE: 0.8154
+86.27% completed at 2024-09-30 14:19:51.
+Running RMSE: 0.8127
+91.87% completed at 2024-09-30 14:39:54.
+Running RMSE: 0.8108
+96.79% completed at 2024-09-30 15:00:02.
+Running RMSE: 0.8090
+98.79% completed at 2024-09-30 15:20:16.
+Running RMSE: 0.8091
+Average training loss (with regularization): 0.6814130808850237
+Evaluating on fold 4...
+
+--- Fold 5 ---
+Training on fold 5
+8.40% completed at 2024-09-30 16:34:15.
+Running RMSE: 0.7977
+16.80% completed at 2024-09-30 16:54:17.
+Running RMSE: 0.8144
+25.16% completed at 2024-09-30 17:14:23.
+Running RMSE: 0.8164
+33.59% completed at 2024-09-30 17:34:25.
+Running RMSE: 0.8181
+42.07% completed at 2024-09-30 17:54:26.
+Running RMSE: 0.8160
+50.55% completed at 2024-09-30 18:14:29.
+Running RMSE: 0.8107
+59.07% completed at 2024-09-30 18:34:30.
+Running RMSE: 0.8077
+67.79% completed at 2024-09-30 18:54:30.
+Running RMSE: 0.8048
+74.91% completed at 2024-09-30 19:14:35.
+Running RMSE: 0.8018
+81.03% completed at 2024-09-30 19:34:35.
+Running RMSE: 0.8003
+89.27% completed at 2024-09-30 19:54:39.
+Running RMSE: 0.7974
+97.99% completed at 2024-09-30 20:14:40.
+Running RMSE: 0.7974
+Average training loss (with regularization): 0.6628837063003468
+Evaluating on fold 5...
+
+Average RMSE across 5 folds: 0.8739361643791199
+Average MAE across 5 folds: 0.575230384103721
+Execution ended at: 2024-09-30 20:48:33
+Total execution time: 91263.34 seconds
