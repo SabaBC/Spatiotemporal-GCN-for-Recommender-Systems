@@ -520,7 +520,7 @@ def Model_k_fold(k):
     MIN_SAMPLES = 10  # Optimal minPts for OPTICS clustering algorithm
     BIDIRECTIONAL_LSTM = True  # Defines whether LSTM is bidirectional or not
     NUMBER_OF_CLUSTERS = 5  # Optimal number of temporal clusters for each user item pair
-    FILE_PATH = 'C://Users//Saba//Documents//UNIVERSITY//Thesis//My Work//2//ml-100k//u.data'  # Dataset file path
+    FILE_PATH = '//ml-100k//u.data'  # Dataset file path
     EMBEDDING_DIM = 256  # Embedding dimension of RGCN (256=2*128 --> user and item concatenation) (128=4*32 --> 4 hidden layers, each 32 dimension)
 
     # Load the dataset
