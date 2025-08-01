@@ -1,0 +1,55 @@
+Execution started at: 2025-02-05 00:21:25
+Training the model...
+8.43% completed at 2025-02-05 00:41:30.
+Running RMSE: 0.9433
+16.90% completed at 2025-02-05 01:01:32.
+Running RMSE: 0.9089
+25.32% completed at 2025-02-05 01:21:36.
+Running RMSE: 0.8959
+33.83% completed at 2025-02-05 01:41:38.
+Running RMSE: 0.8864
+42.42% completed at 2025-02-05 02:01:39.
+Running RMSE: 0.8770
+51.01% completed at 2025-02-05 02:21:40.
+Running RMSE: 0.8686
+59.68% completed at 2025-02-05 02:41:41.
+Running RMSE: 0.8601
+67.34% completed at 2025-02-05 03:01:42.
+Running RMSE: 0.8544
+74.61% completed at 2025-02-05 03:21:46.
+Running RMSE: 0.8493
+81.79% completed at 2025-02-05 03:41:52.
+Running RMSE: 0.8453
+89.06% completed at 2025-02-05 04:01:57.
+Running RMSE: 0.8412
+96.28% completed at 2025-02-05 04:22:03.
+Running RMSE: 0.8377
+Saved user-item embeddings to user_item_train_embeddings.json
+Average training loss (with regularization): 0.7553651218809967
+Evaluating the model on test data...
+5.29% completed at 2025-02-05 04:54:48.
+10.05% completed at 2025-02-05 05:15:12.
+17.46% completed at 2025-02-05 05:36:02.
+28.57% completed at 2025-02-05 05:56:14.
+34.92% completed at 2025-02-05 06:17:08.
+40.74% completed at 2025-02-05 09:00:01.
+48.15% completed at 2025-02-05 09:20:17.
+55.03% completed at 2025-02-05 09:43:37.
+58.73% completed at 2025-02-05 10:11:50.
+61.90% completed at 2025-02-05 10:36:34.
+65.61% completed at 2025-02-05 10:58:36.
+71.43% completed at 2025-02-05 11:19:17.
+77.78% completed at 2025-02-05 11:39:28.
+85.19% completed at 2025-02-05 12:02:35.
+93.65% completed at 2025-02-05 12:24:17.
+97.88% completed at 2025-02-05 12:45:33.
+Saved test user-item embeddings to user_item_test_embeddings.json
+Test RMSE: 0.8408
+Test MAE: 0.5474
+Test Precision@10: 0.9487
+Test Recall@10: 0.1746
+Test NDCG@10: 0.9645
+Test Coverage: 0.3632
+Test HR@10: 1.0000
+Execution ended at: 2025-02-05 12:51:47
+Total execution time: 45021.82 seconds
