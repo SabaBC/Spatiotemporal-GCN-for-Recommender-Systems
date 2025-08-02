@@ -36,11 +36,13 @@ You will only need the u.data file.
 
 ## Requirements
 
+This code is implemented with Python 3.11.0
+
 Install dependencies with pip install. Example:
 
 pip install surprise
 
-Note: This code requires NumPy < 2.0 for compatibility with some dependencies.
+Note: This code also requires NumPy < 2.0 for compatibility with some dependencies.
 
 ## Usage
 
