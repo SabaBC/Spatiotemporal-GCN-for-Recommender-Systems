@@ -16,15 +16,15 @@ Link: https://ieeexplore.ieee.org/document/10892621
 
 This model predicts user-item ratings using:
 
-1-hop temporal subgraphs clustered via OPTICS
+- 1-hop temporal subgraphs clustered via OPTICS
 
-Relational Graph Convolutional Network (RGCN) for spatial features
+- Relational Graph Convolutional Network (RGCN) for spatial features
 
-LSTM for temporal modeling
+- LSTM for temporal modeling
 
-Self-attention to weight subgraph embeddings
+- Self-attention to weight subgraph embeddings
 
-MLP for final rating prediction
+- MLP for final rating prediction
 
 The model evaluates performance with RMSE, MAE, Precision@K, Recall@K, NDCG@K, Coverage, and Hit Rate.
 
