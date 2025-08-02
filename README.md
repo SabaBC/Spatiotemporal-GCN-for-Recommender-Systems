@@ -30,7 +30,7 @@ The model evaluates performance with RMSE, MAE, Precision@K, Recall@K, NDCG@K, C
 
 ## Dataset
 
-The implementation uses the MovieLens 100K dataset which can be downloaded from **[MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/)**.
+The implementation uses the **[MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/)**.
 
 You will only need the u.data file.
 
